@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasbtnfr&show_icons=true&theme=transparent)
+
 <!--
 **thomasbtnfr/thomasbtnfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
