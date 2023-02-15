@@ -2,6 +2,8 @@
 
 ![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasbtnfr&show_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasbtnfr)](https://github.com/thomasbtnfr/github-readme-stats)
+
 <!--
 **thomasbtnfr/thomasbtnfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
